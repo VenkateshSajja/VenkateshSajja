@@ -22,7 +22,7 @@ console.log(person.getInfo());
 const personMap = new Map();
 personMap.set('name', 'Full Name');
 personMap.set('age', 25);
-personMap.set('city', 'Dundalk');
+personMap.set('city', 'Asian');
 
 
 console.log("\nMap Example:");
