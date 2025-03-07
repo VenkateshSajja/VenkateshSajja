@@ -18,7 +18,7 @@ class Car {
 // Making Objects
 const myCar = new Car("Nissan", "Note");
 myCar.start(); 
-myCar.drive(120); 
+myCar.drive(130); 
 
 //Example 2
 class BankAccount {
