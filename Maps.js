@@ -7,7 +7,7 @@ myMap.set(1, 'one');
 myMap.set(true, 'true value');
 myMap.set({ key: 'objectKey' }, 'object value');
 
-
+//we see this
 // Retrieving a value using a key
 console.log(myMap.get('name')); 
 console.log(myMap.get(1)); 
