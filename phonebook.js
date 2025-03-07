@@ -41,7 +41,7 @@ class PhoneBook {
         return null; 
     }
 
-    // Method to display all contacts
+    // Method to display all the contacts
     displayContacts() {
         this.sortContacts(); 
         this.contacts.forEach(contact =>
